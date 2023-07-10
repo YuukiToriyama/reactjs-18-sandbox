@@ -13,9 +13,12 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@parcel/transformer-typescript-tsc": "^2.9.3",
+    "@parcel/validator-typescript": "^2.9.3",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "parcel": "^2.9.3",
+    "process": "^0.11.10",
     "typescript": "^5.1.6"
   }
 }
